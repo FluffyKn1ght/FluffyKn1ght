@@ -12,6 +12,7 @@ I am interested in the Japanese culture (this includes but is not limited tradit
 
 ## Current Project: Horizons
 A pixel-art survival sandbox RPG made in Godot in collabaration with [@LonelyFear](https://github.com/LonelyFear).
+
 ⏩ You can check it out and contribute to it in this repo: https://github.com/FluffyKn1ght/Horizons
 
 ## Frequently Asked Questions
