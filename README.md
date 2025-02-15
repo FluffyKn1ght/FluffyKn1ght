@@ -23,5 +23,3 @@ I am interested in the Japanese culture (this includes but is not limited tradit
 Email - lightcraftzofficial@gmail.com
 
 Discord - @fluffykn1ght (though my friend requests are off)
-
-VK - https://vk.com/fluffykn1ght
