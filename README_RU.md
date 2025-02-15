@@ -25,5 +25,3 @@
 Email - lightcraftzofficial@gmail.com
 
 Discord - @fluffykn1ght (запросы в друзья выключены)
-
-VK - https://vk.com/fluffykn1ght
