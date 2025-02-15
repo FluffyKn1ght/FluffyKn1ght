@@ -10,11 +10,6 @@ I am interested in the Japanese culture (this includes but is not limited tradit
 🎓 **Learning Goals**: Web development, including HTML+CSS, JavaScript and Svelte.
 💫 **Life Job Goal**: System Administrator (aka the "IT guy") or a programmer of some kind.
 
-## Current Project: Horizons
-A pixel-art survival sandbox RPG made in Godot in collabaration with [@LonelyFear](https://github.com/LonelyFear).
-
-⏩ You can check it out and contribute to it in this repo: https://github.com/FluffyKn1ght/Horizons
-
 ## Frequently Asked Questions
 **Am I open to collaboration?** - Sometimes yeah, sometimes no. Mostly no, unfortunately.
 
