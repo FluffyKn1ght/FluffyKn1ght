@@ -7,7 +7,9 @@ I am very good at English (as you can see) and often connect with other folks ar
 I am interested in the Japanese culture (this includes but is not limited traditional Japan, anime/manga and modern Japan).
 
 💻 **Programming Languages**: Python, Lua and GDScript, however, I know a teeny-tiny bit of Java and C#.
+
 🎓 **Learning Goals**: Web development, including HTML+CSS, JavaScript and Svelte.
+
 💫 **Life Job Goal**: System Administrator (aka the "IT guy") or a programmer of some kind.
 
 ## Frequently Asked Questions
